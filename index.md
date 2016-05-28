@@ -220,8 +220,12 @@ Medias
 * …1 year old company
 * …~800K€ per year atm
 * …2M hits/min
-* …100% Haxe, JS, Flash, nodejs
-* …... and the Secret sauce...
+* …80K lines of Haxe code, JS, Flash, nodejs targets
+* …...and the Secret sauce...
+
+## About Secret Media - numbers
+
+* Our clients like Twitch, IGN, JWPlayer, Dailymotion, TF1...
 
 ## Next steps
 
