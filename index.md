@@ -50,7 +50,7 @@ style: |
         width: 10%;
         vertical-align: bottom;
     }
-    #about-secret-media li {
+    #about-secret-media---the-team li {
         text-align: right;
         margin-right: 200px;
     }
@@ -100,10 +100,11 @@ Secret => let's play hedgewars for 10 min ;)
 -->
 
 
+<!--
 ## The Big Bad Ads
 
-<!--
-http://www.lemonde.fr/
+http://www.parismatch.com/
+
 -->
 
 ## The Big Bad Ads
@@ -116,11 +117,11 @@ http://www.lemonde.fr/
 
 ## The Big Bad Ads
 
-![](pictures/meme.gif)
+![](pictures/ab-diagram2.png)
 
 ## The Big Bad Ads
 
-![](pictures/ab-diagram2.png)
+![](pictures/meme.gif)
 
 <!--
 Google (& Mozilla (search bar))
@@ -130,7 +131,6 @@ Medias
 
 ## The Kickass Solution
 
-
 * …unblock ads
 
 * …optimize ads
@@ -138,7 +138,6 @@ Medias
 * …block unacceptable ads
 
 ## The Kickass Solution's Problem
-
 
 * …Flash and JS ads
 
@@ -159,31 +158,14 @@ Medias
 
 * …modify
 
-## proxify, obfuscate, modify what?
 
-
-* …SWF
-* …Javascript
-* …HTML
-* …CSS
-
-
-## proxify, obfuscate, modify how?
-
-
-* …modify HTML to intercept the JS and styles
-
-* …modify SWF bytecode
-
-* …modify JS code
-
-## proxify, obfuscate, modify how?
+## The Kickass Solution's Problem's solutions
 
 * modify HTML, CSS, JS, SWF
 
-* on the fly
+* …on the fly
 
-* both on the server side and client side
+* …both on the server side and client side
 
 ## YEAH!
 
@@ -217,31 +199,35 @@ Medias
 
 ## About Secret Media - numbers
 
-* …1 year old company
+* …1½ year old company
+
 * …~800K€ per year atm
-* …2M hits/min
-* …80K lines of Haxe code, JS, Flash, nodejs targets
-* …...and the Secret sauce...
+
+* …Twitch, IGN, JWPlayer, Dailymotion, TF1...
 
 ## About Secret Media - numbers
 
-* Our clients like Twitch, IGN, JWPlayer, Dailymotion, TF1...
+* 2M hits/min
+
+* …80K lines of Haxe code, JS, Flash, nodejs targets
+
+* …...and the Secret sauce...
 
 ## Next steps
 
 * …[done] unblock video ads
 * …unblock display ads
-* …optimize or block unacceptable ads
-* …big data: play with the cookies we set
+* …detect and optimize or block unacceptable ads
 * …improve our infrastructure and monitoring tools
+* …big data: play with the cookies we set
 
 ## Next steps
 
 * We need brains!
-* …We could probably afford you!
-* …Apply today!
+* …1 DevOps and 1 fullstack
+* …We could probably afford you! Apply today!
 * …Start training on Hedgewars right away!
 
-## Thank you Merci Obrigado Danke Mersi Спасибо 谢谢 {#thank-you}
+## Thank you! Merci! Obrigado! Danke! Mersi! Спасибо 谢谢 {#thank-you}
 
-
+www.secretmedia.com
