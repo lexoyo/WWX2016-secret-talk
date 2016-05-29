@@ -10,12 +10,12 @@ default_lang: en
 default_body_class: list
 
 author:
-    name: Yours Truly
+    name: WWX2016 talk by Alex Hoyau
     # url:  http://example.com/
     company:
-        name: Famous Inc.
+        name: CTO @ Secret Media
         # url:  http://example.com/
 
-fork_url: https://github.com/shower/shower
+fork_url: https://github.com/lexoyo/WWX2016-secret-talk
 progress: true
 line_numbers: true
